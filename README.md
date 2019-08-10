@@ -1,9 +1,14 @@
 # flowers102-recognition
+### Tools, and Libraries used
+- Python
+- Google Colab GPU
 - Deep Learning
 - Convolutional Neural Network
 - Transfer Learning
 - Data Augmentation 
 - EfficientNets (state-of-the-art)
+- #### Libraries 
+- numpy, pandas, matplotlib, keras, etc.
 
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `validation loss`
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `training loss`
